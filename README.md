@@ -1,7 +1,7 @@
 # Loan_Repayment_System4
 The function DecisionTree Clasifier taken various input mentioned below
 
-if you have any Question Regarding this Model ,Please write me rsmayank25@gmail.com or tweet me <a href = 'https://twitter.com/rs_mayank> Mayank Srivastava on Twitter </a>
+if you have any Question Regarding this Model ,Please write me rsmayank25@gmail.com or tweet me <a href = 'https://twitter.com/rs_mayank'> Mayank Srivastava on Twitter </a>
 #max_depth : int, default=None
  #   The maximum depth of the tree. If None, then nodes are expanded until
   #  all leaves are pure or until all leaves contain less than
