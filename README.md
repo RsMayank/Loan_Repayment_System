@@ -3,12 +3,12 @@ The function DecisionTree Clasifier taken various input mentioned below
 
 if you have any Question Regarding this Model ,Please write me rsmayank25@gmail.com or tweet me <a href = 'https://twitter.com/rs_mayank'> Mayank Srivastava on Twitter </a>
 
-##Raw Data
+<h4>Raw Data: <h4><br>
 <a href = 'https://github.com/RsMayank/Loan_Repayment_System/blob/main/Decision_Tree_%20Dataset.csv'> Click here to see Raw Data (This data may be have Null Values) </a>
 
-##Main Data 
-<a href = 'https://github.com/RsMayank/Loan_Repayment_System/blob/main/dataLRS.csv'>Click Here to see main data file <b>dataLRS.csv</b></a>
-#max_depth : int, default=None
+<h2>Main Data :</h2>
+<a href = 'https://github.com/RsMayank/Loan_Repayment_System/blob/main/dataLRS.csv'>Click Here to see main data file <b>dataLRS.csv</b></a><br>
+max_depth : int, default=None
   The maximum depth of the tree. If None, then nodes are expanded until
    all leaves are pure or until all leaves contain less than
    min_samples_split samples. 
